@@ -1,0 +1,4 @@
+# prefix,country_code,region_code,city,postal
+#EMEA
+#Armenia-Yerevan
+130.248.84.0/23,AM,AM-ER,Yerevan,0036
