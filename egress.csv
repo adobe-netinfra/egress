@@ -1,8 +1,14 @@
 # prefix,country_code,region_code,city,postal
 #EMEA
+####################################
 #Armenia-Yerevan
 #130.248.84.0/23,AM,AM-ER,Yerevan
 #UK-Reading
 130.248.96.0/24,GB,GB-RDG,Reading,
 130.248.97.0/24,GB,GB-RDG,Reading,
 130.248.96.0/23,GB,GB-RDG,Reading,
+#####################################
+#APAC
+#####################################
+#SINGAPORE
+130.248.116.0/23,SG,,Singapore
