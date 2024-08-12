@@ -14,3 +14,5 @@
 130.248.116.0/23,SG,SG-01,Singapore,
 #Seoul
 130.248.120.0/23,KR,KR-11,Seoul,
+#Bucharest
+130.248.80/23,RO,RO-B,Bucharest,
