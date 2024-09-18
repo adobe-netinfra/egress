@@ -5,6 +5,8 @@
 #130.248.84.0/23,AM,AM-ER,Yerevan
 #UK-Reading
 130.248.96.0/23,GB,GB-RDG,Reading,
+#Dublin RADB Test
+130.248.48.0/24,IE,IE-WW,Wicklow,A63H928,
 #####################################
 #APAC
 #####################################
