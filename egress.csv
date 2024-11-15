@@ -1,3 +1,6 @@
+#Put your IP range under the appropriate region section: EMEA, APAC or AMER.
+#Above the IP range put a comment line in the format: Country-City
+#Within the region - the entries should be in alphabetical order based on the Country-City comment.
 # prefix,country_code,region_code,city,postal
 #EMEA
 ####################################
