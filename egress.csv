@@ -2,7 +2,9 @@
 #EMEA
 ####################################
 #Armenia-Yerevan
-#130.248.84.0/23,AM,AM-ER,Yerevan
+#130.248.84.0/23,AM,AM-ER,Yerevan,
+#Romania-Bucharest
+130.248.80.0/23,RO,RO-B,Bucharest,
 #UK-Reading
 130.248.96.0/23,GB,GB-RDG,Reading,
 #Dublin RADB Test
@@ -10,18 +12,16 @@
 #####################################
 #APAC
 #####################################
-#SINGAPORE
-130.248.116.0/23,SG,SG-01,Singapore,
-#Seoul
-130.248.120.0/23,KR,KR-11,Seoul,
-#Bucharest
-130.248.80/23,RO,RO-B,Bucharest,
-#Melbourne
+#Australia-Melbourne
 130.248.118.0/23,AU,AU-VIC,Melbourne,
+#Singapore-Singapore
+130.248.116.0/23,SG,SG-01,Singapore,
+#South-Korea-Seoul
+130.248.120.0/23,KR,KR-11,Seoul,
 #####################################
 #AMER
 #####################################
-#Virginia
+#USA-Virginia
 192.147.118.0/23,US,US-VA,Ashburn,20147,
 130.248.4.0/23,US,US-VA,Ashburn,20147,
 #####################################
